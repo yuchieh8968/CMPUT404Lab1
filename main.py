@@ -7,4 +7,4 @@ print(requests.__version__)
 print(requests.get('http://www.google.com'))
 
 #curl point 10. Python script that downloads itself
-#os.system('curl -i https://raw.githubusercontent.com/yuchieh8968/CMPUT404Lab1/main/main.py')
+os.system('curl -i https://raw.githubusercontent.com/yuchieh8968/CMPUT404Lab1/main/main.py')
